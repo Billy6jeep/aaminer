@@ -1,5 +1,5 @@
 # aaminer
-AA Miner (BTC,BCH,LTC,XMR,DASH.. CryptoCoin Miner).
+ AA Miner – Mine BTC, BCH, LTC, XMR, DASH, and more.
 
 [Version 1.50 : Performance improvement.](../../raw/master/aaminer-1-50-release.apk)
 
